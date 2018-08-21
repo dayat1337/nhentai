@@ -1,7 +1,7 @@
 #!/bin/bash
-# gift for my favorite türkce lan misha as thanks for the fox girls!!
+# makasih buat lo semua ya ngentot, gue masih stay disini anjiing!!
 if [[ -z "$1" ]]; then
-    echo "usage: ""$0"" <nhentai url, https://nhentai.net/g/12345/ etc.>"
+    echo "usage: ""$0"" <nhentai url, https://nhentai.net/g/070601/ etc.>"
     exit 1;
 fi
 URL="https:\/\/i.nhentai.net\/galleries\/"
